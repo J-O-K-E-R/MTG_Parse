@@ -1,0 +1,10 @@
+X:\Git\MTG\MTG_Parse\MTG_Parse\bin\Debug\MTG_Parse.exe.config
+X:\Git\MTG\MTG_Parse\MTG_Parse\bin\Debug\MTG_Parse.exe
+X:\Git\MTG\MTG_Parse\MTG_Parse\bin\Debug\MTG_Parse.pdb
+X:\Git\MTG\MTG_Parse\MTG_Parse\bin\Debug\Newtonsoft.Json.dll
+X:\Git\MTG\MTG_Parse\MTG_Parse\bin\Debug\Newtonsoft.Json.xml
+X:\Git\MTG\MTG_Parse\MTG_Parse\obj\Debug\MTG_Parse.csprojAssemblyReference.cache
+X:\Git\MTG\MTG_Parse\MTG_Parse\obj\Debug\MTG_Parse.csproj.CoreCompileInputs.cache
+X:\Git\MTG\MTG_Parse\MTG_Parse\obj\Debug\MTG_Parse.csproj.CopyComplete
+X:\Git\MTG\MTG_Parse\MTG_Parse\obj\Debug\MTG_Parse.exe
+X:\Git\MTG\MTG_Parse\MTG_Parse\obj\Debug\MTG_Parse.pdb
